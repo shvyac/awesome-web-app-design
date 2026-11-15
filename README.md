@@ -4,8 +4,6 @@
 
 A curated, actively maintained list of free resources for beautiful web and app design — graphics, fonts, colors, icons, stock media, CSS frameworks, animation, UI component libraries, design systems, design tools, inspiration, and AI-ready design files.
 
-The section structure follows [Brad Traversy's design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) (MIT License), which stopped accepting new resources on October 18, 2026. This list picks a smaller set from each section, updates moved or renamed links, drops archived projects, and keeps adding newer tools.
-
 ⭐ badges show live GitHub star counts (via shields.io); release badges show the date of the latest GitHub release (YYYY/MM/DD, as of the last refresh); last-commit badges show live commit activity (via shields.io).
 
 ## Contents

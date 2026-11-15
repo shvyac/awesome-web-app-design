@@ -10,44 +10,55 @@ The section structure follows [Brad Traversy's design-resources-for-developers](
 
 ## Contents
 
-- [UI Graphics](#ui-graphics)
-- [Fonts](#fonts)
-- [Colors](#colors)
-- [Icons](#icons)
-- [Logos](#logos)
-- [Favicons](#favicons)
-- [Icon Fonts](#icon-fonts)
-- [Stock Photos](#stock-photos)
-- [Stock Videos](#stock-videos)
-- [Stock Music & Sound Effects](#stock-music--sound-effects)
-- [Vectors & Clip Art](#vectors--clip-art)
-- [Product & Image Mockups](#product--image-mockups)
-- [HTML & CSS Templates](#html--css-templates)
-- [CSS Frameworks](#css-frameworks)
-- [CSS Methodologies](#css-methodologies)
-- [CSS Animations](#css-animations)
-- [Javascript Animation Libraries](#javascript-animation-libraries)
-- [Javascript Chart Libraries](#javascript-chart-libraries)
-- [UI Components & Kits](#ui-components--kits)
-- [React UI Libraries](#react-ui-libraries)
-- [Vue UI Libraries](#vue-ui-libraries)
-- [Angular UI Libraries](#angular-ui-libraries)
-- [Svelte UI Libraries](#svelte-ui-libraries)
-- [React Native UI Libraries](#react-native-ui-libraries)
-- [Design Systems & Style Guides](#design-systems--style-guides)
-- [Online Design Tools](#online-design-tools)
-- [Downloadable Design Software](#downloadable-design-software)
-- [Design Inspiration](#design-inspiration)
-- [Image Compression](#image-compression)
-- [Chrome Extensions](#chrome-extensions)
-- [Firefox Extensions](#firefox-extensions)
-- [AI Graphic Design Tools](#ai-graphic-design-tools)
-- [AI-ready Design (DESIGN.md & Skills)](#ai-ready-design-designmd--skills)
-- [Others](#others)
-- [Related Awesome Lists](#related-awesome-lists)
+- [Visual Assets](#visual-assets)
+  - [UI Graphics](#ui-graphics)
+  - [Fonts](#fonts)
+  - [Colors](#colors)
+  - [Icons](#icons)
+  - [Logos](#logos)
+  - [Favicons](#favicons)
+  - [Icon Fonts](#icon-fonts)
+- [Stock Media & Mockups](#stock-media--mockups)
+  - [Stock Photos](#stock-photos)
+  - [Stock Videos](#stock-videos)
+  - [Stock Music & Sound Effects](#stock-music--sound-effects)
+  - [Vectors & Clip Art](#vectors--clip-art)
+  - [Product & Image Mockups](#product--image-mockups)
+- [HTML & CSS](#html--css)
+  - [HTML & CSS Templates](#html--css-templates)
+  - [CSS Frameworks](#css-frameworks)
+  - [CSS Methodologies](#css-methodologies)
+  - [CSS Animations](#css-animations)
+- [JavaScript Libraries](#javascript-libraries)
+  - [Javascript Animation Libraries](#javascript-animation-libraries)
+  - [Javascript Chart Libraries](#javascript-chart-libraries)
+- [UI Component Libraries](#ui-component-libraries)
+  - [UI Components & Kits](#ui-components--kits)
+  - [React UI Libraries](#react-ui-libraries)
+  - [Vue UI Libraries](#vue-ui-libraries)
+  - [Angular UI Libraries](#angular-ui-libraries)
+  - [Svelte UI Libraries](#svelte-ui-libraries)
+  - [React Native UI Libraries](#react-native-ui-libraries)
+- [Design Systems & Inspiration](#design-systems--inspiration)
+  - [Design Systems & Style Guides](#design-systems--style-guides)
+  - [Design Inspiration](#design-inspiration)
+- [Design Tools](#design-tools)
+  - [Online Design Tools](#online-design-tools)
+  - [Downloadable Design Software](#downloadable-design-software)
+  - [Image Compression](#image-compression)
+  - [Chrome Extensions](#chrome-extensions)
+  - [Firefox Extensions](#firefox-extensions)
+- [AI for Design](#ai-for-design)
+  - [AI Graphic Design Tools](#ai-graphic-design-tools)
+  - [AI-ready Design (DESIGN.md & Skills)](#ai-ready-design-designmd--skills)
+- [More Resources](#more-resources)
+  - [Others](#others)
+  - [Related Awesome Lists](#related-awesome-lists)
 - [shvyac's awesome lists](#shvyacs-awesome-lists)
 
-## UI Graphics
+## Visual Assets
+
+### UI Graphics
 
 Illustrations, patterns, avatars, and background generators for interfaces.
 
@@ -64,7 +75,7 @@ Illustrations, patterns, avatars, and background generators for interfaces.
 - [fffuel](https://www.fffuel.co/) - Collection of SVG generators for gradients, textures, shapes, and noise.
 - [Mesh Gradient](https://meshgradient.in/) - Create and download mesh gradients.
 
-## Fonts
+### Fonts
 
 Free font libraries, pairing helpers, and self-hosting tools.
 
@@ -79,7 +90,7 @@ Free font libraries, pairing helpers, and self-hosting tools.
 - [Leon Sans](https://github.com/cmiscm/leonsans) ![GitHub stars](https://img.shields.io/github/stars/cmiscm/leonsans?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/cmiscm/leonsans?style=flat) - Geometric sans-serif typeface drawn with code, for animated text.
 - [Modern Fluid Typography Editor](https://modern-fluid-typography.vercel.app/) - Builds fluid font sizes with CSS clamp().
 
-## Colors
+### Colors
 
 Palette generators, color systems, gradients, and accessibility checks.
 
@@ -96,7 +107,7 @@ Palette generators, color systems, gradients, and accessibility checks.
 - [WebGradients](https://webgradients.com/) - Free collection of CSS linear gradients.
 - [Grabient](https://www.grabient.com/) - Gradient editor that outputs CSS.
 
-## Icons
+### Icons
 
 Open-source SVG icon sets and icon search tools.
 
@@ -114,7 +125,7 @@ Open-source SVG icon sets and icon search tools.
 - [SVG Repo](https://www.svgrepo.com/) - Huge searchable collection of free SVG vectors and icons.
 - [Lordicon](https://lordicon.com/icons#free) - Animated icons with free sets for web and apps.
 
-## Logos
+### Logos
 
 Brand and technology logos in vector formats.
 
@@ -124,7 +135,7 @@ Brand and technology logos in vector formats.
 - [Browser Logos](https://github.com/alrra/browser-logos) ![GitHub stars](https://img.shields.io/github/stars/alrra/browser-logos?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2024%2F12%2F25-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/alrra/browser-logos?style=flat) - High-resolution web browser logos.
 - [Payment Logos](https://github.com/mpay24/payment-logos) ![GitHub stars](https://img.shields.io/github/stars/mpay24/payment-logos?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/mpay24/payment-logos?style=flat) - Logos of payment systems and credit cards.
 
-## Favicons
+### Favicons
 
 Favicon and app icon generators.
 
@@ -133,7 +144,7 @@ Favicon and app icon generators.
 - [Maskable.app](https://maskable.app/editor) - Previews and edits maskable icons for PWAs.
 - [favicon.cc](https://www.favicon.cc/) - Pixel editor for drawing favicons by hand.
 
-## Icon Fonts
+### Icon Fonts
 
 Icon sets distributed as fonts or component packages.
 
@@ -147,7 +158,9 @@ Icon sets distributed as fonts or component packages.
 - [Fontello](https://fontello.com/) ![GitHub stars](https://img.shields.io/github/stars/fontello/fontello?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/fontello/fontello?style=flat) - Builds a custom icon font from selected icons. ([GitHub](https://github.com/fontello/fontello))
 - [React Icons](https://react-icons.github.io/react-icons/) ![GitHub stars](https://img.shields.io/github/stars/react-icons/react-icons?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F06%2F30-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/react-icons/react-icons?style=flat) - Popular icon sets as React components. ([GitHub](https://github.com/react-icons/react-icons))
 
-## Stock Photos
+## Stock Media & Mockups
+
+### Stock Photos
 
 Free photo libraries and placeholder images.
 
@@ -162,7 +175,7 @@ Free photo libraries and placeholder images.
 - [nappy](https://nappy.co/) - Beautiful photos of Black and Brown people, free to use.
 - [Lorem Picsum](https://picsum.photos/) ![GitHub stars](https://img.shields.io/github/stars/DMarby/picsum-photos?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/DMarby/picsum-photos?style=flat) - Placeholder photos by URL, like Lorem Ipsum for images. ([GitHub](https://github.com/DMarby/picsum-photos))
 
-## Stock Videos
+### Stock Videos
 
 Free video footage.
 
@@ -172,7 +185,7 @@ Free video footage.
 - [Mixkit](https://mixkit.co/) - Free videos, music, sound effects, and templates.
 - [Videvo](https://www.videvo.net/) - Stock footage with a free tier.
 
-## Stock Music & Sound Effects
+### Stock Music & Sound Effects
 
 Royalty-free music and sound effects.
 
@@ -184,7 +197,7 @@ Royalty-free music and sound effects.
 - [Mixkit Music](https://mixkit.co/free-stock-music/) - Free stock music tracks.
 - [Bensound](https://www.bensound.com/) - Royalty-free music with a free license option.
 
-## Vectors & Clip Art
+### Vectors & Clip Art
 
 Vector illustrations and SVG shape/background generators.
 
@@ -198,7 +211,7 @@ Vector illustrations and SVG shape/background generators.
 - [Shape Divider](https://www.shapedivider.app/) - Custom SVG section dividers for websites.
 - [CSS Clip-Path Generator](https://csstoolkit.net/css-clip-path-generator/) - Visual editor for CSS clip-path shapes.
 
-## Product & Image Mockups
+### Product & Image Mockups
 
 Device frames, browser frames, and screenshot beautifiers.
 
@@ -211,7 +224,9 @@ Device frames, browser frames, and screenshot beautifiers.
 - [Animockup](https://github.com/alyssaxuu/animockup) ![GitHub stars](https://img.shields.io/github/stars/alyssaxuu/animockup?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/alyssaxuu/animockup?style=flat) - Creates animated mockups as video or GIF in the browser.
 - [Threed](https://threed.io/) - 3D device mockups rendered in the browser.
 
-## HTML & CSS Templates
+## HTML & CSS
+
+### HTML & CSS Templates
 
 Free website and landing-page templates.
 
@@ -226,7 +241,7 @@ Free website and landing-page templates.
 - [ScrewFast](https://github.com/mearashadowfax/ScrewFast) ![GitHub stars](https://img.shields.io/github/stars/mearashadowfax/ScrewFast?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/mearashadowfax/ScrewFast?style=flat) - Open-source Astro + Tailwind CSS website template.
 - [TemplateMo](https://templatemo.com/) - Free CSS templates for many kinds of sites.
 
-## CSS Frameworks
+### CSS Frameworks
 
 Utility-first, component, and classless CSS frameworks.
 
@@ -242,7 +257,7 @@ Utility-first, component, and classless CSS frameworks.
 - [98.css](https://jdan.github.io/98.css/) ![GitHub stars](https://img.shields.io/github/stars/jdan/98.css?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2022%2F05%2F22-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/jdan/98.css?style=flat) - CSS library that recreates the Windows 98 look. ([GitHub](https://github.com/jdan/98.css))
 - [NES.css](https://nostalgic-css.github.io/NES.css/) ![GitHub stars](https://img.shields.io/github/stars/nostalgic-css/NES.css?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2019%2F12%2F17-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/nostalgic-css/NES.css?style=flat) - 8-bit, NES-style CSS framework. ([GitHub](https://github.com/nostalgic-css/NES.css))
 
-## CSS Methodologies
+### CSS Methodologies
 
 Naming and architecture approaches for maintainable CSS.
 
@@ -252,7 +267,7 @@ Naming and architecture approaches for maintainable CSS.
 - [SMACSS](http://smacss.com/) - Scalable and modular architecture for CSS.
 - [Atomic CSS](https://acss.io/) - Styling with single-purpose atomic classes.
 
-## CSS Animations
+### CSS Animations
 
 Ready-made CSS animations and animation builders.
 
@@ -265,7 +280,9 @@ Ready-made CSS animations and animation builders.
 - [Hamburgers](https://jonsuh.com/hamburgers/) ![GitHub stars](https://img.shields.io/github/stars/jonsuh/hamburgers?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2022%2F03%2F15-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/jonsuh/hamburgers?style=flat) - Animated hamburger menu icons in CSS. ([GitHub](https://github.com/jonsuh/hamburgers))
 - [CSS Loaders](https://cssloaders.github.io/) - Copy-paste CSS loaders and spinners.
 
-## Javascript Animation Libraries
+## JavaScript Libraries
+
+### Javascript Animation Libraries
 
 Animation, motion, scrolling, 3D, and carousel libraries.
 
@@ -283,7 +300,7 @@ Animation, motion, scrolling, 3D, and carousel libraries.
 - [Typed.js](https://mattboldt.com/demos/typed-js/) ![GitHub stars](https://img.shields.io/github/stars/mattboldt/typed.js?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F01%2F24-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/mattboldt/typed.js?style=flat) - Typing animation for text. ([GitHub](https://github.com/mattboldt/typed.js))
 - [Rough Notation](https://roughnotation.com/) ![GitHub stars](https://img.shields.io/github/stars/rough-stuff/rough-notation?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/rough-stuff/rough-notation?style=flat) - Animated hand-drawn annotations on a page. ([GitHub](https://github.com/rough-stuff/rough-notation))
 
-## Javascript Chart Libraries
+### Javascript Chart Libraries
 
 Charting and data visualization libraries.
 
@@ -296,7 +313,9 @@ Charting and data visualization libraries.
 - [Vizzu](https://lib.vizzuhq.com/) ![GitHub stars](https://img.shields.io/github/stars/vizzuhq/vizzu-lib?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F04%2F20-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/vizzuhq/vizzu-lib?style=flat) - Library for animated data storytelling. ([GitHub](https://github.com/vizzuhq/vizzu-lib))
 - [Frappe Charts](https://frappe.io/charts) ![GitHub stars](https://img.shields.io/github/stars/frappe/charts?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2022%2F04%2F27-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/frappe/charts?style=flat) - GitHub-inspired, dependency-free SVG charts. ([GitHub](https://github.com/frappe/charts))
 
-## UI Components & Kits
+## UI Component Libraries
+
+### UI Components & Kits
 
 Framework-agnostic components, Tailwind CSS kits, and UI building blocks.
 
@@ -314,7 +333,7 @@ Framework-agnostic components, Tailwind CSS kits, and UI building blocks.
 - [SVGR](https://react-svgr.com/) ![GitHub stars](https://img.shields.io/github/stars/gregberge/svgr?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2023%2F08%2F15-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/gregberge/svgr?style=flat) - Transforms SVGs into React components. ([GitHub](https://github.com/gregberge/svgr))
 - [awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) ![GitHub stars](https://img.shields.io/github/stars/anubhavsrivastava/awesome-ui-component-library?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/anubhavsrivastava/awesome-ui-component-library?style=flat) - Curated list of UI component libraries by framework.
 
-## React UI Libraries
+### React UI Libraries
 
 Component libraries, primitives, and motion for React.
 
@@ -336,7 +355,7 @@ Component libraries, primitives, and motion for React.
 - [Recharts](https://recharts.org/) ![GitHub stars](https://img.shields.io/github/stars/recharts/recharts?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F07%2F25-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/recharts/recharts?style=flat) - Composable charts built with React and D3. ([GitHub](https://github.com/recharts/recharts))
 - [Blueprint](https://blueprintjs.com/) ![GitHub stars](https://img.shields.io/github/stars/palantir/blueprint?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F11%2F13-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/palantir/blueprint?style=flat) - React toolkit for complex, data-dense desktop interfaces. ([GitHub](https://github.com/palantir/blueprint))
 
-## Vue UI Libraries
+### Vue UI Libraries
 
 Component libraries for Vue and Nuxt.
 
@@ -352,7 +371,7 @@ Component libraries for Vue and Nuxt.
 - [Ant Design Vue](https://antdv.com/) ![GitHub stars](https://img.shields.io/github/stars/vueComponent/ant-design-vue?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2024%2F11%2F11-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/vueComponent/ant-design-vue?style=flat) - Ant Design components for Vue. ([GitHub](https://github.com/vueComponent/ant-design-vue))
 - [Vuestic UI](https://ui.vuestic.dev/) ![GitHub stars](https://img.shields.io/github/stars/epicmaxco/vuestic-ui?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2024%2F10%2F17-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/epicmaxco/vuestic-ui?style=flat) - Free, accessible Vue 3 UI framework. ([GitHub](https://github.com/epicmaxco/vuestic-ui))
 
-## Angular UI Libraries
+### Angular UI Libraries
 
 Component libraries for Angular.
 
@@ -365,7 +384,7 @@ Component libraries for Angular.
 - [Nebular](https://akveo.github.io/nebular/) ![GitHub stars](https://img.shields.io/github/stars/akveo/nebular?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F01%2F15-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/akveo/nebular?style=flat) - Customizable Angular UI library with auth and security modules. ([GitHub](https://github.com/akveo/nebular))
 - [spartan](https://www.spartan.ng/) ![GitHub stars](https://img.shields.io/github/stars/spartan-ng/spartan?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F10%2F29-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/spartan-ng/spartan?style=flat) - Accessible Angular primitives with a shadcn-like styled layer. ([GitHub](https://github.com/spartan-ng/spartan))
 
-## Svelte UI Libraries
+### Svelte UI Libraries
 
 Component libraries for Svelte and SvelteKit.
 
@@ -378,7 +397,7 @@ Component libraries for Svelte and SvelteKit.
 - [Svelte UX](https://svelte-ux.techniq.dev/) ![GitHub stars](https://img.shields.io/github/stars/techniq/svelte-ux?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F08%2F20-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/techniq/svelte-ux?style=flat) - Components and utilities for data-heavy Svelte apps. ([GitHub](https://github.com/techniq/svelte-ux))
 - [Svelte Material UI](https://sveltematerialui.com/) ![GitHub stars](https://img.shields.io/github/stars/hperrin/svelte-material-ui?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/hperrin/svelte-material-ui?style=flat) - Material Design components for Svelte. ([GitHub](https://github.com/hperrin/svelte-material-ui))
 
-## React Native UI Libraries
+### React Native UI Libraries
 
 Component libraries for React Native and cross-platform apps.
 
@@ -391,7 +410,9 @@ Component libraries for React Native and cross-platform apps.
 - [React Native UI Lib](https://wix.github.io/react-native-ui-lib/) ![GitHub stars](https://img.shields.io/github/stars/wix/react-native-ui-lib?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F11%2F11-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/wix/react-native-ui-lib?style=flat) - UI components and design tokens from Wix. ([GitHub](https://github.com/wix/react-native-ui-lib))
 - [awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui) ![GitHub stars](https://img.shields.io/github/stars/madhavanmalolan/awesome-reactnative-ui?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/madhavanmalolan/awesome-reactnative-ui?style=flat) - React Native UI components, updated weekly.
 
-## Design Systems & Style Guides
+## Design Systems & Inspiration
+
+### Design Systems & Style Guides
 
 Public design systems and UX principles to learn from.
 
@@ -408,7 +429,29 @@ Public design systems and UX principles to learn from.
 - [Checklist Design](https://www.checklist.design/) - UX best-practice checklists for pages, components, and flows.
 - [Once UI](https://once-ui.com/) - Design system and Next.js components for indie builders.
 
-## Online Design Tools
+### Design Inspiration
+
+Galleries of websites, apps, and UI patterns.
+
+- [Dribbble](https://dribbble.com/) - Community of designers sharing shots and portfolios.
+- [Behance](https://www.behance.net/) - Adobe's showcase of creative projects.
+- [Awwwards](https://www.awwwards.com/) - Awards and galleries for the best web design.
+- [Land-book](https://land-book.com/) - Gallery of landing pages and websites.
+- [Landingfolio](https://www.landingfolio.com/) - Landing page examples and components.
+- [Lapa Ninja](https://www.lapa.ninja/) - Landing page inspiration collection.
+- [SaaS Landing Page](https://saaslandingpage.com/) - SaaS landing page examples by section.
+- [Httpster](https://httpster.net/) - Showcase of cutting-edge website design.
+- [Codrops](https://tympanus.net/codrops/) - Creative web design and front-end tutorials and demos.
+- [Frontend Mentor](https://www.frontendmentor.io/) - Real-world front-end challenges with designs.
+- [Really Good Emails](https://reallygoodemails.com/) - Gallery of well-designed emails.
+- [siteInspire](https://www.siteinspire.com/) - Curated showcase of web and interactive design.
+- [Bento Grids](https://bentogrids.com/) - Curated bento-grid layouts.
+- [Screenlane](https://screenlane.com/) - Web and mobile UI screens for inspiration.
+- [awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) ![GitHub stars](https://img.shields.io/github/stars/syxanash/awesome-web-desktops?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/syxanash/awesome-web-desktops?style=flat) - Websites and portfolios designed to look like desktop operating systems.
+
+## Design Tools
+
+### Online Design Tools
 
 Browser-based design, prototyping, and CSS effect tools.
 
@@ -432,7 +475,7 @@ Browser-based design, prototyping, and CSS effect tools.
 - [OmniTools](https://omnitools.app/) ![GitHub stars](https://img.shields.io/github/stars/iib0011/omni-tools?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F10%2F20-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/iib0011/omni-tools?style=flat) - Self-hostable toolbox of 100+ browser utilities for images, video, PDF, and text. ([GitHub](https://github.com/iib0011/omni-tools))
 - [Jitter](https://jitter.video/) - Motion design tool for animating UI and graphics.
 
-## Downloadable Design Software
+### Downloadable Design Software
 
 Free desktop apps for graphics, photos, 3D, and prototyping.
 
@@ -445,27 +488,7 @@ Free desktop apps for graphics, photos, 3D, and prototyping.
 - [Lunacy](https://icons8.com/lunacy) - Free design app with offline support and built-in assets.
 - [Pencil Project](https://pencil.evolus.vn/) ![GitHub stars](https://img.shields.io/github/stars/evolus/pencil?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F10%2F24-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/evolus/pencil?style=flat) - Open-source GUI prototyping and wireframing tool. ([GitHub](https://github.com/evolus/pencil))
 
-## Design Inspiration
-
-Galleries of websites, apps, and UI patterns.
-
-- [Dribbble](https://dribbble.com/) - Community of designers sharing shots and portfolios.
-- [Behance](https://www.behance.net/) - Adobe's showcase of creative projects.
-- [Awwwards](https://www.awwwards.com/) - Awards and galleries for the best web design.
-- [Land-book](https://land-book.com/) - Gallery of landing pages and websites.
-- [Landingfolio](https://www.landingfolio.com/) - Landing page examples and components.
-- [Lapa Ninja](https://www.lapa.ninja/) - Landing page inspiration collection.
-- [SaaS Landing Page](https://saaslandingpage.com/) - SaaS landing page examples by section.
-- [Httpster](https://httpster.net/) - Showcase of cutting-edge website design.
-- [Codrops](https://tympanus.net/codrops/) - Creative web design and front-end tutorials and demos.
-- [Frontend Mentor](https://www.frontendmentor.io/) - Real-world front-end challenges with designs.
-- [Really Good Emails](https://reallygoodemails.com/) - Gallery of well-designed emails.
-- [siteInspire](https://www.siteinspire.com/) - Curated showcase of web and interactive design.
-- [Bento Grids](https://bentogrids.com/) - Curated bento-grid layouts.
-- [Screenlane](https://screenlane.com/) - Web and mobile UI screens for inspiration.
-- [awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) ![GitHub stars](https://img.shields.io/github/stars/syxanash/awesome-web-desktops?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/syxanash/awesome-web-desktops?style=flat) - Websites and portfolios designed to look like desktop operating systems.
-
-## Image Compression
+### Image Compression
 
 Compress, resize, and optimize images in the browser.
 
@@ -478,7 +501,7 @@ Compress, resize, and optimize images in the browser.
 - [Vecta Nano](https://vecta.io/nano) - Compresses SVGs while keeping embedded fonts.
 - [Verexif](https://www.verexif.com/en/) - Views and removes EXIF data from photos.
 
-## Chrome Extensions
+### Chrome Extensions
 
 Browser extensions for inspecting and capturing designs.
 
@@ -493,7 +516,7 @@ Browser extensions for inspecting and capturing designs.
 - [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) ![GitHub stars](https://img.shields.io/github/stars/chrispederick/web-developer?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2024%2F06%2F19-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/chrispederick/web-developer?style=flat) - Toolbar of web developer tools. ([GitHub](https://github.com/chrispederick/web-developer))
 - [Responsive Viewer](https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb) - Shows a page at several screen sizes at once.
 
-## Firefox Extensions
+### Firefox Extensions
 
 Firefox versions of popular design and developer extensions.
 
@@ -505,7 +528,9 @@ Firefox versions of popular design and developer extensions.
 - [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) - Inspects React component trees.
 - [Stylebot](https://addons.mozilla.org/en-US/firefox/addon/stylebot-web/) - Changes the appearance of websites with custom CSS.
 
-## AI Graphic Design Tools
+## AI for Design
+
+### AI Graphic Design Tools
 
 AI tools that generate UI designs, images, and diagrams.
 
@@ -514,7 +539,7 @@ AI tools that generate UI designs, images, and diagrams.
 - [Leonardo.Ai](https://leonardo.ai/) - AI image generation with a free daily token allowance.
 - [AI Diagram Generator](https://diagram-generator.com/) - Creates diagrams from text descriptions.
 
-## AI-ready Design (DESIGN.md & Skills)
+### AI-ready Design (DESIGN.md & Skills)
 
 Design-system files that coding agents can read to generate matching UI.
 
@@ -522,7 +547,9 @@ Design-system files that coding agents can read to generate matching UI.
 - [awesome-claude-design](https://github.com/VoltAgent/awesome-claude-design) ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-claude-design?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/VoltAgent/awesome-claude-design?style=flat) - Ready-to-use design system inspirations in DESIGN.md format for Claude Design and coding agents.
 - [awesome-design-skills](https://github.com/bergside/awesome-design-skills) ![GitHub stars](https://img.shields.io/github/stars/bergside/awesome-design-skills?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/bergside/awesome-design-skills?style=flat) - DESIGN.md and SKILL.md design skill files for Claude Design, Google Stitch, Codex, Cursor, and more.
 
-## Others
+## More Resources
+
+### Others
 
 Front-end references, utilities, and learning resources.
 
@@ -538,7 +565,7 @@ Front-end references, utilities, and learning resources.
 - [30 seconds of code](https://www.30secondsofcode.org/) ![GitHub stars](https://img.shields.io/github/stars/Chalarangelo/30-seconds-of-code?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2025%2F05%2F07-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/Chalarangelo/30-seconds-of-code?style=flat) - Short code snippets for JavaScript, CSS, and more. ([GitHub](https://github.com/Chalarangelo/30-seconds-of-code))
 - [Flexbox Froggy](https://flexboxfroggy.com/) ![GitHub stars](https://img.shields.io/github/stars/thomaspark/flexboxfroggy?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/thomaspark/flexboxfroggy?style=flat) - Game for learning CSS Flexbox. ([GitHub](https://github.com/thomaspark/flexboxfroggy))
 
-## Related Awesome Lists
+### Related Awesome Lists
 
 Other curated lists on design and UI.
 
